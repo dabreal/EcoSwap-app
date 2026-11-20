@@ -1,0 +1,10 @@
+# Copy this file to "local.properties" (it is git-ignored).
+# Android Studio normally creates local.properties automatically.
+#
+# Path to your Android SDK installation, for example:
+#   Windows: sdk.dir=C\:\path\to\Android\Sdk
+#   macOS:   sdk.dir=/path/to/Library/Android/sdk
+#   Linux:   sdk.dir=/path/to/Android/Sdk
+sdk.dir=/path/to/Android/Sdk
+#
+# This project does not need any API key or secret.

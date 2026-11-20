@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcoSwap</string>
+    <string name="notification_channel_name">EcoSwap</string>
+    <string name="notification_channel_description">Avisos de la app (nuevos objetos, etc.)</string>
+    <string name="notif_new_product_title">Nuevo objeto en EcoSwap</string>
+    <string name="notif_new_product_body">Se ha publicado: %1$s</string>
+    <string name="pick_image_gallery">Galería</string>
+    <string name="pick_image_camera">Hacer foto</string>
+    <string name="form_error_required_fields">Completa todos los campos obligatorios antes de publicar.</string>
+    <string name="field_required">Campo obligatorio</string>
+</resources>

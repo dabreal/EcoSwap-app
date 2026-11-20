@@ -1,0 +1,54 @@
+# ---------- Gradle / build ----------
+.gradle/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+output.json
+output-metadata.json
+
+# ---------- IDE ----------
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.kotlin/
+.DS_Store
+Thumbs.db
+
+# ---------- Local configuration & secrets (never commit) ----------
+local.properties
+secrets.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# ---------- Firebase / Google services ----------
+google-services.json
+**/google-services.json
+GoogleService-Info.plist
+*serviceAccount*.json
+*service-account*.json
+.firebase/
+.firebaserc
+firebase-debug.log
+firestore-debug.log
+database-debug.log
+ui-debug.log
+
+# ---------- Logs ----------
+*.log
